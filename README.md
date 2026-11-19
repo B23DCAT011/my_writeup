@@ -24,10 +24,12 @@ target, client, or employer is identifiable.
 | Date | Title | Class | Difficulty |
 |------|-------|-------|------------|
 | 2026-11 | [Stored XSS via an unauthenticated ingest API](writeups/2026-11-stored-xss-via-unauth-ingest-api.md) | Stored XSS + Broken Access Control | ⭐⭐⭐ |
+| 2026-11 | [OmegaSector — host spoofing → unrestricted file write → non-alphanumeric RCE](writeups/2026-11-omega-sector-host-spoofing-to-rce.md) | Auth Bypass + File Upload → RCE | ⭐⭐⭐⭐ |
 
 ## 🏷️ Tags
 
 `#xss` `#broken-access-control` `#django` `#drf` `#web` `#api`
+`#rce` `#file-upload` `#auth-bypass` `#parse-url` `#non-alphanumeric-php` `#php` `#ctf`
 
 ---
 
